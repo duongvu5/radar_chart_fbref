@@ -1,8 +1,4 @@
 mplsoccer
 fbrefdata
 statsbombpy
-streamlit
-numpy
-pandas
-matplotlib
 distutils
