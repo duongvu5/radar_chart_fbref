@@ -1,4 +1,3 @@
-mplsoccer
-fbrefdata
-statsbombpy
-distutils
+mplsoccer==1.4.0
+fbrefdata==0.4.1
+statsbombpy==1.13.1
